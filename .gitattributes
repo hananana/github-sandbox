@@ -1,3 +1,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 piyo/[[:space:]]piyo filter=lfs diff=lfs merge=lfs -text
 my_big_file filter=lfs diff=lfs merge=lfs -text
+foo[[:space:]]bar filter=lfs diff=lfs merge=lfs -text
